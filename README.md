@@ -13,9 +13,13 @@ The project relies on OpenCV and MediaPipe for facial analysis and eye tracking,
 
 # 🛠 Technologies used
 Programming Language: Python
+
 Image Analysis Library: OpenCV
+
 Face and Eye Tracking System: MediaPipe
+
 Audio Alert: pygame
+
 User Interface: Tkinter
 
 # 📸 Screenshots 
