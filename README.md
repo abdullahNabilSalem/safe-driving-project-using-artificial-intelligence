@@ -6,9 +6,13 @@ The project relies on OpenCV and MediaPipe for facial analysis and eye tracking,
 
 # 🚀 Key Features
 ✅ Automatic eye closure detection
+
 ✅ Alerts the driver with a drowsy alarm
+
 ✅ Uses artificial intelligence techniques to analyze the face and eyes
+
 ✅ Improved performance using multiprocessing
+
 ✅ Easy graphical interface using Tkinter
 
 # 🛠 Technologies used
